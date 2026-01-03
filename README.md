@@ -77,8 +77,11 @@
 <div align="center">
 
 <a href="https://github.com/ZongaoHuang/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZongaoHuang&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZongaoHuang&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ZongaoHuang"/>
+
+	
+  <img src="https://raw.githubusercontent.com/ZongaoHuang/github-stats/master/generated/overview.svg#gh-dark-mode-only" width="450"/>
+	
+  <img src="https://raw.githubusercontent.com/ZongaoHuang/github-stats/master/generated/languages.svg#gh-dark-mode-only" width="450"/>
 
 </a>
 </div>
