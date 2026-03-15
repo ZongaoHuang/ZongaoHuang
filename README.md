@@ -71,7 +71,8 @@
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjllYWhwb2ZlemVyMmc3bDhjb3JtNnludXA2Nmw2M2NyenM0M3FzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10Bb1Bq7BMi9Co/giphy.gif" width="40" ><b> Github Stats </b>
 <br>
 
 <div align="center">
@@ -86,6 +87,13 @@
 </a>
 </div>
 
+### 🐍 My Contributions Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZongaoHuang/ZongaoHuang/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZongaoHuang/ZongaoHuang/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZongaoHuang/ZongaoHuang/output/github-contribution-grid-snake.svg">
+</picture>
+
 <br>
 <br>
 <br>
@@ -95,7 +103,9 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
+
+
+## <img src="./assets/mdImages/handshake.gif" width ="80"><b> Let's Connect..!</b>
 <br>
 <div align='left'>
 
